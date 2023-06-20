@@ -1,12 +1,10 @@
 ### Hello, I'm I-Shiang.
 
-I'm still a high schooler studying at NUS High School of Mathematics and Science, in Singapore.
+I'm a final year student at NUS High School of Mathematics and Science, in Singapore.
 
-When I'm not writing code, I'm probably reading up on quirky organic chemistry reactions, watching French Youtube videos/films, or eating cheese.
+When I'm not writing code, I'm probably listening to music, reading up on quirky organic chemistry reactions, watching French Youtube videos/films, eating cheese, or listening to music.
 
-When I'm free (which I'm often not 🥲), I hope to learn more front-end development. Otherwise, I have worked on Android apps, Flutter web apps, as well as machine learning and data visualisation with Python.
-
-![Lee I-Shiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenTan101&show_icons=true)
+When I'm free 🥲 I hope to learn more front-end development and also do more cool (generative?) AI stuff. Otherwise, I have worked on JavaFX apps, Android apps, Flutter web apps, some Vue stuff, some SQL stuff, as well as machine learning and data visualisation in Python and Julia.
 
 <!--
 **BenTan101/BenTan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
